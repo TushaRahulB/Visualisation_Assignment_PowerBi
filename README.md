@@ -54,6 +54,7 @@ Based on a thorough review, the following enhancements would significantly impro
 * **Contextual Insights:** Consider adding small text annotations or a "Key Takeaways" section to highlight significant trends, anomalies, or performance drivers, guiding the user to important insights.
 * **Interactivity:** If developed using a tool like Tableau, Power BI, or even web technologies, adding interactive elements (e.g., filters, drill-downs) would greatly enhance data exploration.
 
-## How to View
+## Screenshot of the Dashboard
+![image](https://github.com/user-attachments/assets/30408702-75cc-4d98-8fc2-6e23acfa3bea)
 
-The dashboard is provided as a static image (`image_720c63.png`). Simply open the image file to view the dashboard.
+
