@@ -40,20 +40,6 @@ The dashboard is composed of the following key visualizations:
 * **Font Choice:** A clean, sans-serif font is used throughout for maximum readability.
 * **Layout:** The dashboard follows a grid-like layout, organizing information logically with high-level summaries on the right and detailed breakdowns in the main section.
 
-## Areas for Future Improvement
-
-Based on a thorough review, the following enhancements would significantly improve the dashboard's clarity, effectiveness, and user experience:
-
-* **Improved Axis Readability:** The X-axis labels on time-series charts (`Sum of Sales per Year` and `Sales by month and Year`) are currently too dense and overlap, making them difficult to read. This could be addressed by rotating labels, reducing the number of displayed labels, or implementing interactive zoom/scroll features.
-* **Enhanced Chart Selection:**
-    * The `Sum of SGM by Year` (Pie Chart) is not ideal for comparing many categories or showing time trends. A **bar chart** or **line chart** would provide a much clearer comparison of SGM across years.
-    * The `Sum of SGM per Store, Super Division` (Donut Chart) could also be more effectively presented using a **bar chart** for easier segment comparison, especially with many stores/divisions.
-* **Descriptive State Labels:** The `Sum of Sales by state` table uses generic state codes (e.g., B10, A11). Replacing these with actual state names or more descriptive identifiers would greatly improve interpretability.
-* **Optimized Table Presentation:** The state sales table on the left is somewhat cramped. Adjusting its size or formatting could improve readability.
-* **Remove Redundancy:** The `Sum of SGM` label appearing twice within the center of the donut chart is redundant and can be removed.
-* **Contextual Insights:** Consider adding small text annotations or a "Key Takeaways" section to highlight significant trends, anomalies, or performance drivers, guiding the user to important insights.
-* **Interactivity:** If developed using a tool like Tableau, Power BI, or even web technologies, adding interactive elements (e.g., filters, drill-downs) would greatly enhance data exploration.
-
 ## Screenshot of the Dashboard
 ![image](https://github.com/user-attachments/assets/30408702-75cc-4d98-8fc2-6e23acfa3bea)
 
