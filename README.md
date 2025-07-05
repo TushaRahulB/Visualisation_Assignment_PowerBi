@@ -1,6 +1,6 @@
 # Sales Dashboard Assignment
 
-This repository contains a static image representation of a Sales Dashboard, designed to visualize key sales performance indicators. The dashboard aims to provide a quick overview of sales trends, distribution, and profitability across different dimensions.
+This repository contains a representation of a Sales Dashboard, designed to visualize key sales performance indicators. The dashboard aims to provide a quick overview of sales trends, distribution, and profitability across different dimensions.
 
 ## Table of Contents
 - [Overview](#overview)
